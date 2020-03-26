@@ -1,11 +1,9 @@
 package testing;
 
-/* Uncomment the below code to test your application
+// Uncomment the below code to test your application
 
 import model.Bus;
 import java.time.LocalDate;
-import static org.junit.Assert.*;
-import org.junit.Test;
 
 public class TestBus {
 	LocalDate ld = LocalDate.of(2020, 02, 03);
@@ -59,5 +57,3 @@ public class TestBus {
 		}
 	}
 }
-
-*/
